@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+	<head lang="en">
+		<meta charset="UTF-8">
+		<title></title>
+		<link rel="stylesheet" href="bs/css/bootstrap.min.css">
+		<link rel="stylesheet" href="bs/css/bootstrap-theme.min.css">
+		<script src="bs/js/bootstrap.min.js"></script>		
+		<script src="rezepte.js" defer="defer"></script>
+	</head>
+	<body>
+		<main id="main-content" class="container-fluid">
+			<div class="row">
+				<div class="col-md-4"></div>
+				<div class="col-md-4">
+
+					<h2>Datenbank Ahornsirup-Rezepte</h2>
+					
+					<section id="show">
+						<button id="btn-all-recipes" class="btn btn-warning">Zeige alle Rezepte</button>
+						<div id="div-all-recipes"></div>  
+					</section>
+					
+					<h2>Finde Dein Ahornsirup-Rezept</h2>
+					
+					<form>
+						<div id="search_title" class="form-group">
+							<label>Suche nach Titel:</label>
+							<input type="text" class="form-control" id="titel" placeholder="Titel...">
+							<div id="titel_suche"></div>
+						</div>
+						
+						<div id="search_ingredient" class="form-group">
+							<label>Suche nach Zutat:</label>
+							<input type="text" id="zutat" class="form-control" placeholder="Zutat...">
+							<div id="zutaten_suche"></div>
+						</div>
+					</form>
+		
+					<h2>Füge Dein Ahornsirup-Rezept hinzu</h2>
+
+					<section>
+						<div class="form-group">
+							<p id="recipe-title">Wie heißt Dein Ahornsirup-Rezept:<br>
+							<input type="text" placeholder="Titel" class="name form-control"/>
+							</p>
+							<p id="recipe-subtitle">Vergib einen Untertitel:<br>
+							<input type="text" placeholder="Untertitel" class="sub-name form-control"/>
+							</p>
+							<p id="recipe-preparation">Wie geht die Zubereitung?<br>
+							<textarea placeholder="Zubereitung" rows="15" cols="50" maxlength="2500" class="preparation form-control"></textarea>
+							</p>
+							<p id="recipe-duration">Wie lange dauert dein Rezept in Minuten:<br>
+							<input type="text" placeholder="Zeitangabe in Minuten" class="duration form-control"/>
+							</p>
+							<div id="recipe-container"></div>
+							<div id="customer-ingredients"></div>
+							<p id="new-ingredients">Füge deine Zutaten hinzu<br>
+								<input type="number" max="999" value="1" placeholder="Menge" class="quantity form-control"/>
+								<input type="text" placeholder="Einheit (El, Pr. St. etc.)" class="unit form-control"/>
+								<input type="text" placeholder="Zutat" class="ingredient form-control"/>
+								<button id="add_ingredient" class="btn btn-warning">Zutat hinzufügen</button>
+							</p>
+							<button id="add-custom-recipe" class="btn btn-warning">Rezept erstellen</button>
+							<div id="show-recipe"></div>
+						</div>
+					</section>		
+					
+					<h2>Berechne die Portionen</h2>
+					
+					<section id="extract-recipe">
+						<div id="recipe-count"></div>
+						<br>
+						<div id="people-count"></div>
+						<button id="inc" class="btn btn-warning">+ eine Personen</button>
+						<button id="desc" class="btn btn-warning">- eine Person</button>
+					</section>
+
+				</div>
+				<div class="col-md-4"></div>
+			</div>
+		</main>
+	</body>
+</html>

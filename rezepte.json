@@ -1,0 +1,94 @@
+{
+	"rezepte": [{
+			"titel": "Hähnchen",
+			"untertitel": "Hähnchenflügel in Ahornsirup-Marinade",
+			"zutaten": [
+				{"menge": 12, "einheit": "St.", "zutat": "Hähnchenflügel (à ca. 80 g)"}, 
+				{"menge": 1, "einheit": "St.", "zutat": "Ingwer"},
+				{"menge": 30, "einheit": "g", "zutat": "helle Sesamsaat"},
+				{"menge": 4, "einheit": "El", "zutat": "Ahornsirup"},
+				{"menge": 1, "einheit": "El", "zutat": "Sojasoße"},
+				{"menge": 1, "einheit": "Pr.", "zutat": "Salz"},
+				{"menge": 1, "einheit": "Pr.", "zutat": "Pfeffer"},
+				{"menge": 5, "einheit": "El", "zutat": "Öl"}, 
+				{"menge": 1, "einheit": "", "zutat": "Bio Zitrone(n)"}, 
+				{"menge": 1, "einheit": "", "zutat": "große Gefrierbeutel (ca. 6 l)"}, 
+				{"menge": 1, "einheit": "St.", "zutat": "Backpapier"}
+			],
+			"zubereitungszeit": [
+				{"menge": 60, "einheit": "Minuten"}
+			],
+			"zubereitung": "Flügel waschen und trocken tupfen. Ingwer schälen und fein raspeln. Sesam, Sirup und 1 EL Sojasoße vermischen. Mit Salz, Pfeffer und Ingwer würzen. Öl untermengen. Flügel in einen Gefrierbeutel geben, Marinade darübergießen. Verschließen und alles gut vermengen. Ca. 1 Stunde marinieren lassen. Flügel aus dem Beutel nehmen, nebeneinander auf ein mit Backpapier ausgelegtes Backblech legen. Im vorgeheizten Backofen (E-Herd: 200 °C/ Umluft: 175 °C/ Gas: s. Hersteller) ca. 45 Minuten braten. Zitrone heiß waschen, trocken reiben, horizontal halbieren und in Spalten schneiden. Anrichten und mit Zitronenspalten bestreuen."
+		},
+		{
+			"titel": "Tarte",
+			"untertitel": "Tarte Tatin mit Birnen und Ahornsirup",
+			"zutaten": [
+				{"menge": 60, "einheit": "g", "zutat": "Puderzucker"}, 
+				{"menge": 3, "einheit": "EL", "zutat": "Ahornsirup"},
+				{"menge": 20, "einheit": "g", "zutat": "Butter"},
+				{"menge": 50, "einheit": "g", "zutat": "Mandelblättchen"},
+				{"menge": 1, "einheit": "St.", "zutat": "Birne"},
+				{"menge": 3, "einheit": "Scheiben (á 45 g)", "zutat": "tiefgefrorener Blätterteig"}
+			],
+			"zubereitungszeit": [
+				{"menge": 45, "einheit": "Minuten"}
+			],
+			"zubereitung": "Puderzucker und Sirup in einer ofenfesten Pfanne (16 cm Ø) schmelzen. Butter und Mandelblättchen zufügen. Bei mittlerer Hitze ca. 5 Minuten köcheln. Birne waschen, halbieren, entkernen. Fruchtfleisch in Scheiben schneiden, in den Sirup geben und weitere 5 Minuten köcheln. Blätterteigscheiben übereinandergelegt antauen lassen. In der Größe der Pfanne ausrollen. Auf die karamellisierten Birnen legen und im vorgeheizten Backofen (E-Herd: 225 °C/ Umluft: 200 °C/ Gas: Stufe 4) ca. 15 Minuten backen. 5 Minuten ruhen lassen und vorsichtig (heiß!!!) aus der Pfanne stürzen. Wer mag, gibt der Tarte mit einem Brenner noch etwas Farbe."
+		},
+		{
+			"titel": "Toast",
+			"untertitel": "Spiegelei-Toast mit Bacon und Ahornsirup",
+			"zutaten": [
+				{"menge": 0.5, "einheit": "Bund", "zutat": "Schnittlauch"}, 
+				{"menge": 4, "einheit": "Scheiben", "zutat": "Vollkorntoast"},
+				{"menge": 8, "einheit": "Scheiben", "zutat": "Bacon"},
+				{"menge": 2, "einheit": "TL", "zutat": "Butter"},
+				{"menge": 4, "einheit": "St.", "zutat": "Eier"},
+				{"zutat": "Pfeffer"},
+				{"menge": 1, "einheit": "EL", "zutat": "Ahornsirup zum Beträufeln"}
+			],
+			"zubereitungszeit": [
+				{"menge": 20, "einheit": "Minuten"}
+			],
+			"zubereitung": "Schnittlauch waschen, trocken schütteln und in feine Röllchen schneiden. Aus jeder Toastbrotscheibe mittig einen Kreis (ca. 5 cm Ø) ausstechen. Bacon in einer großen beschichteten Pfanne ohne Fett knusprig braten. Herausnehmen, warm stellen. 1 TL Butter im Speckfett erhitzen. Je 2 Brotkreise und 2 Brotscheiben hineingeben. 2 Eier aufschlagen und auf die Brotscheiben geben. Bei schwacher bis mittlerer Hitze 1–2 Minuten ­braten. Wenden und nochmals 1–2 Minuten braten. Mit Pfeffer würzen. Warm stellen bzw. alle Brote und Brotkreise in zwei Pfannen gleichzeitig braten. Brote mit Brotkreisen und Bacon anrichten. Evtl. Ahornsirup dar­überträufeln und mit Schnittlauch bestreuen."
+		},
+		{
+			"titel": "Joghurt",
+			"untertitel": "Kokos-Joghurt mit Birne und Ahornsirup",
+			"zutaten": [
+				{"menge": 150, "einheit": "g", "zutat": "Magermilch-Joghurt"}, 
+				{"menge": 1, "einheit": "St.", "zutat": "kleine Birne"},
+				{"menge": 1, "einheit": "EL", "zutat": "Rosinen"},
+				{"menge": 1, "einheit": "TL", "zutat": "Ahornsirup"},
+				{"menge": 1, "einheit": "TL", "zutat": "Kokosraspel"},
+				{"menge": 1, "einheit": "TL", "zutat": "Kokoschips"}
+			],
+			"zubereitungszeit": [
+				{"menge": 10, "einheit": "Minuten"}
+			],
+			"zubereitung": "Joghurt in ein Glas füllen. Birne waschen, trocken reiben und vierteln. Kerngehäuse entfernen. Viertel der Länge nach halbieren und in Würfel schneiden. Rosinen,Birnenwürfel und Ahornsirup vermengen und auf den Joghurt geben. Mit den Kokosraspel bestreuen und mit Kokoschips verzieren."
+		},
+		{
+			"titel": "Pfannkuchen",
+			"untertitel": "Bananenpfannkuchen mit Ahornsirup und Mandeln",
+			"zutaten": [
+				{"menge": 30, "einheit": "g", "zutat": "Butter oder Margarine"}, 
+				{"menge": 150, "einheit": "g", "zutat": "Mehl"},
+				{"menge": 1, "einheit": "TL", "zutat": "Backpulver"},
+				{"menge": 1, "einheit": "Päckchen", "zutat": "Vanillin-Zucker"},
+				{"menge": 1, "einheit": "St.", "zutat": "Ei (Größe M)"},
+				{"menge": 175, "einheit": "ml", "zutat": "Buttermilch"},
+				{"menge": 3, "einheit": "St.", "zutat": "kleine Bananen"},
+				{"menge": 30, "einheit": "g", "zutat": "Butterschmalz"},
+				{"menge": 3, "einheit": "EL", "zutat": "Mandelblättchen"},
+				{"menge": 4, "einheit": "EL", "zutat": "Ahornsirup"}				
+			],
+			"zubereitungszeit": [
+				{"menge": 45, "einheit": "Minuten"}
+			],
+			"zubereitung": "Fett schmelzen. Mehl, Backpulver, Vanillin-Zucker, Ei und Buttermilch glatt rühren. Fett unterrühren und ca. 10 Minuten quellen lassen. 2 Bananen schälen und in Scheiben schneiden. Butterschmalz portionsweise in einer Pfanne erhitzen. Für 3 Pancakes (à ca. 10 cm Ø) je 2 EL Teig in die Pfanne geben. Einige Bananenscheiben und Mandelblättchen darauf verteilen. Pfannkuchen von jeder Seite ca. 2 Minuten braten. Warm halten. 9 weitere Pfannkuchen ebenso backen. Restliche Banane schälen und in Scheiben schneiden. Pfannkuchen und Bananenscheiben auf Tellern anrichten. Mit Ahornsirup beträufeln."
+		}
+	]
+}
+
